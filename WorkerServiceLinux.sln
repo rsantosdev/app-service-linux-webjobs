@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceLinux", ".\WorkerServiceLinux\WorkerServiceLinux.csproj", "{7B348B7D-B1C8-40B8-9B39-A5D6E730F6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceWithHttp", ".\WorkerServiceWithHttp\WorkerServiceWithHttp.csproj", "{27945176-3F64-40F0-AAF9-DA6269B583A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B348B7D-B1C8-40B8-9B39-A5D6E730F6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B348B7D-B1C8-40B8-9B39-A5D6E730F6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B348B7D-B1C8-40B8-9B39-A5D6E730F6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B348B7D-B1C8-40B8-9B39-A5D6E730F6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27945176-3F64-40F0-AAF9-DA6269B583A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27945176-3F64-40F0-AAF9-DA6269B583A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27945176-3F64-40F0-AAF9-DA6269B583A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27945176-3F64-40F0-AAF9-DA6269B583A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B586480F-2410-4B79-ADFE-6AC3178E80EE}
+	EndGlobalSection
+EndGlobal
